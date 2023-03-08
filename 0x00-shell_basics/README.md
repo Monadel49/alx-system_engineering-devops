@@ -1,2 +1,3 @@
 pwd print current working directory 
-ls Display the contents list of your current directory.
+ls Display the contents list of your current directory
+cd home change directory to home 
